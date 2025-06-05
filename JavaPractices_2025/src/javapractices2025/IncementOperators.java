@@ -75,9 +75,7 @@ public class IncementOperators {
 	double du=1.2;
 	System.out.println(du++);
 	System.out.println(++du);
-	System.out.println(du);
-	
-	
+	System.out.println(du);	
 	
 	
 	

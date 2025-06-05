@@ -6,8 +6,7 @@ public class ElseIf {
 		String browser="chrome";
 		
 		if(browser.equals("chrome")) {
-			System.out.println("chrome is lanch");
-			
+			System.out.println("chrome is lanch");			
 		}else if (browser.equals("IE")) {
 			System.out.println("IE is Launch");
 		}else if(browser.equals("firefox")) {
