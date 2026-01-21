@@ -13,7 +13,7 @@ public class PrintReverseArray {
 			  System.out.println(i[k]); 
 			  }
 		 
-
+System.out.println("==================");
 		int count = i.length - 1;
 		for (int e : i) {
 			e = count;
